@@ -13,7 +13,7 @@
 
   Footcap is fully responsive ecommerce website, <br />Responsive for all devices, built using HTML,Flask, CSS, and JavaScript.
 
-  <a href="https://codewithsadee.github.io/footcap/"><strong>➥ Live Demo</strong></a>
+  <a href="[https://cod.github.io/footcap/](https://github.com/prajoat/Footcap-main/edit/main/README.md)"><strong>➥ Live Demo</strong></a>
 
 </div>
 
